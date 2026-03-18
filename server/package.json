@@ -1,1 +1,16 @@
-{\n  "name": "my-app",\n  "version": "1.0.0",\n  "description": "A simple express application",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "latest",\n    "multer": "latest",\n    "pdf-lib": "latest",\n    "cors": "latest",\n    "dotenv": "latest"\n  }\n}
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "A simple express application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "multer": "latest",
+    "pdf-lib": "latest",
+    "cors": "latest",
+    "dotenv": "latest"
+  }
+}
